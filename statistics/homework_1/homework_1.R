@@ -1,7 +1,6 @@
 # zapisujemy dane z pliku csv do data.frame
 dane <- read.csv("homework_1_data.csv", sep = ',')
 
-
 # wydobywamy "wartość spółek" z data.frame
 dane_wartosc <- dane[,2]
 

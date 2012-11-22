@@ -1,14 +1,14 @@
-\textbf{Zestaw: 5 Mateusz Czerwiński (186537) }
+\textbf{Zestaw 5 Mateusz Czerwiński (186537) }
 
 Wielkość: $Q_1= 154.8 ,\,$ $Q_2= 564.12 ,\,$ $Q_3= 2017.55 ,\,$
 
-B. małe: $\ov{x}= 8.48 ,\,$ $Me= 8.01 ,\,$ $\widehat{\si}= 1.85 ,$ 
+B. małe: $\ov{x}= 8.48 ,\,$ $Me= 8.01 ,\,$ $\widehat{\si}= 1.77 ,$ 
 
-Małe: $\ov{x}= 15.31 ,\,$ $Me= 14.57 ,\,$ $\widehat{\si}= 3.16 ,\,$
+Małe: $\ov{x}= 15.31 ,\,$ $Me= 14.57 ,\,$ $\widehat{\si}= 3.03 ,\,$
 
-Średnie: $\ov{x}= 32.18 ,\,$ $Me= 23.98 ,\,$ $\widehat{\si}= 17.59 ,\,$ 
+Średnie: $\ov{x}= 32.18 ,\,$ $Me= 23.98 ,\,$ $\widehat{\si}= 16.84 ,\,$ 
 
-Duże $\ov{x}= 65.01 ,\,$ $Me= 62.69 ,\,$ $\widehat{\si}= 8.57 ,\,$ 
+Duże $\ov{x}= 65.01 ,\,$ $Me= 62.69 ,\,$ $\widehat{\si}= 8.17 ,\,$ 
 
 Interpretacja
 B. małe : wartość średnia wskaźnika C/Z w tym segmencie spółek jest niska, co może wskazywać na niedowartościowanie akcji, ponadto sd jest ``mocno'' skupione wokół średniej.
